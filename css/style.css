@@ -545,6 +545,7 @@ body {
   font-weight: bold;
   color: #555;
   line-height: 1.1em;
+  margin-bottom: 0.8em;
   -webkit-transition: color 0.2s;
   -moz-transition: color 0.2s;
   -ms-transition: color 0.2s;
