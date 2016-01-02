@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.10w2p.com/"/>
-  <updated>2016-01-01T04:27:41.509Z</updated>
+  <updated>2016-01-02T11:09:33.938Z</updated>
   <id>http://www.10w2p.com/</id>
   
   <author>
@@ -15,33 +15,49 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[真要做成了，就靠这三点]]></title>
+    <link href="http://www.10w2p.com/2016/01/02/the-rules/"/>
+    <id>http://www.10w2p.com/2016/01/02/the-rules/</id>
+    <published>2016-01-02T11:09:33.938Z</published>
+    <updated>2016-01-02T11:09:33.938Z</updated>
+    <content type="html"><![CDATA[<p>日后事成，大概会说是这三点原则指导了我。</p>
+<ol>
+<li>单线程;</li>
+<li>Do it tomorrow;</li>
+<li>Environmentize.</li>
+</ol>
+<p>单线程就是只做一件事。做这件事时，每次只做一个小方面。类似科学界处事的方法：只敲打单个变量。<br>Do it tomorrow. 今天的计划，是个closed list。冲动总会有，拖延它。<br>Environmentize. 投资改造物理环境，滑着走，不要推着走。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>日后事成，大概会说是这三点原则指导了我。</p>
+<ol>
+<li>单线程;</li>
+<li>Do it tomorrow;</li>
+<li>Environmentize.</li>
+</ol>
+<p>单线程就是只做一件事。做这件事时，每次只做一个小方面。类似科学界处事]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[学说人话的十条建议]]></title>
-    <link href="http://www.10w2p.com/2016/01/01/10-ways/"/>
-    <id>http://www.10w2p.com/2016/01/01/10-ways/</id>
-    <published>2016-01-01T04:27:41.509Z</published>
-    <updated>2016-01-01T04:27:41.509Z</updated>
+    <link href="http://www.10w2p.com/2016/01/02/10-ways/"/>
+    <id>http://www.10w2p.com/2016/01/02/10-ways/</id>
+    <published>2016-01-02T11:07:59.327Z</published>
+    <updated>2016-01-02T11:07:59.327Z</updated>
     <content type="html"><![CDATA[<p>改编自<a href="http://www.miis.edu/admissions/requirements/translationinterpretation/prepare" target="_blank" rel="external">蒙特雷的十条建议</a></p>
 <ol>
-<li><p>广泛阅读英文书刊</p>
-</li>
-<li><p>广泛阅读中文书刊</p>
-</li>
-<li><p>收听收看英文新闻 </p>
-</li>
-<li><p>收听收看中文新闻</p>
-</li>
-<li><p>报名参加大学一年级中文课程</p>
-</li>
-<li><p>报名参加各学科的英文高中预科（AP）教程</p>
-</li>
-<li><p>加强写作</p>
-</li>
-<li><p>改进演讲</p>
-</li>
-<li><p>完善中文分析技能</p>
-</li>
-<li><p>完善英文分析技能</p>
-</li>
+<li>广泛阅读英文书刊</li>
+<li>广泛阅读中文书刊</li>
+<li>收听收看英文新闻 </li>
+<li>收听收看中文新闻</li>
+<li>报名参加大学一年级中文课程</li>
+<li>报名参加各学科的英文高中预科（AP）教程</li>
+<li>加强写作</li>
+<li>改进演讲</li>
+<li>完善中文分析技能</li>
+<li>完善英文分析技能</li>
 </ol>
 ]]></content>
     <summary type="html">
