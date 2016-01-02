@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.10w2p.com/"/>
-  <updated>2016-01-02T11:09:33.938Z</updated>
+  <updated>2016-01-02T21:45:53.810Z</updated>
   <id>http://www.10w2p.com/</id>
   
   <author>
@@ -15,27 +15,58 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[真要做成了，就靠这三点]]></title>
-    <link href="http://www.10w2p.com/2016/01/02/the-rules/"/>
-    <id>http://www.10w2p.com/2016/01/02/the-rules/</id>
-    <published>2016-01-02T11:09:33.938Z</published>
-    <updated>2016-01-02T11:09:33.938Z</updated>
-    <content type="html"><![CDATA[<p>日后事成，大概会说是这三点原则指导了我。</p>
-<ol>
-<li>单线程;</li>
-<li>Do it tomorrow;</li>
-<li>Environmentize.</li>
-</ol>
-<p>单线程就是只做一件事。做这件事时，每次只做一个小方面。类似科学界处事的方法：只敲打单个变量。<br>Do it tomorrow. 今天的计划，是个closed list。冲动总会有，拖延它。<br>Environmentize. 投资改造物理环境，滑着走，不要推着走。</p>
+    <title><![CDATA[一生一熟才有趣]]></title>
+    <link href="http://www.10w2p.com/2016/01/03/new-old-mixed/"/>
+    <id>http://www.10w2p.com/2016/01/03/new-old-mixed/</id>
+    <published>2016-01-02T21:45:53.810Z</published>
+    <updated>2016-01-02T21:45:53.810Z</updated>
+    <content type="html"><![CDATA[<p>人分生熟，事分新老。熟与新的组合带来趣味。最有趣的是一生一熟：</p>
+<ul>
+<li>熟人新事，比如跟老友坐过山车；</li>
+<li>旧事生人，比如同行跨国交流。</li>
+</ul>
+<p>相比之下，</p>
+<ul>
+<li>全熟，就容易无聊，比如老同学聚会只聊过去那点事；</li>
+<li>全生，更近乎无趣，比如新人未经介绍就开始第一天工作。</li>
+</ul>
+<p>学习新技能若能把握生熟搭配，就能有趣些，也容易持续。、</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>日后事成，大概会说是这三点原则指导了我。</p>
+    <![CDATA[<p>人分生熟，事分新老。熟与新的组合带来趣味。最有趣的是一生一熟：</p>
+<ul>
+<li>熟人新事，比如跟老友坐过山车；</li>
+<li>旧事生人，比如同行跨国交流。</li>
+</ul>
+<p>相比之下，</p>
+<ul>
+<li>全熟，就容易无聊，比如老同学聚会只聊过]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[方法论小结]]></title>
+    <link href="http://www.10w2p.com/2016/01/03/the-rules/"/>
+    <id>http://www.10w2p.com/2016/01/03/the-rules/</id>
+    <published>2016-01-02T21:45:31.038Z</published>
+    <updated>2016-01-02T21:45:31.038Z</updated>
+    <content type="html"><![CDATA[<p>三点：</p>
 <ol>
 <li>单线程;</li>
 <li>Do it tomorrow;</li>
 <li>Environmentize.</li>
 </ol>
-<p>单线程就是只做一件事。做这件事时，每次只做一个小方面。类似科学界处事]]>
+<p>单线程：只做一件事。做这件事时，每次只做一个小方面。只敲打单个变量。<br>Do it tomorrow. 今天的计划，是个closed list。冲动总会有，拖延它。<br>Environmentize. 投资改造物理环境，滑着走，不要推着走。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>三点：</p>
+<ol>
+<li>单线程;</li>
+<li>Do it tomorrow;</li>
+<li>Environmentize.</li>
+</ol>
+<p>单线程：只做一件事。做这件事时，每次只做一个小方面。只敲打单个变量。<br>Do it tomorro]]>
     </summary>
     
   </entry>
@@ -62,37 +93,6 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>改编自<a href="http://www.miis.edu/admissions/requirements/translationinterpretation/prepare" target="_blank" rel="external">蒙特雷的十条建议</a></p]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[一生一熟才有趣]]></title>
-    <link href="http://www.10w2p.com/2016/01/01/new-old-mixed/"/>
-    <id>http://www.10w2p.com/2016/01/01/new-old-mixed/</id>
-    <published>2015-12-31T21:28:44.520Z</published>
-    <updated>2015-12-31T21:28:44.520Z</updated>
-    <content type="html"><![CDATA[<p>人分生熟，事分新老。熟与新的组合带来趣味。最有趣的是一生一熟：</p>
-<ul>
-<li>熟人新事，比如跟老友冒险；</li>
-<li>旧事生人，比如同行跨国交流。</li>
-</ul>
-<p>相比之下，</p>
-<ul>
-<li>全熟，就容易无聊，比如老同学聚会只聊过去那点事；</li>
-<li>全生，更近乎无趣，比如新人未经介绍就开始第一天工作。</li>
-</ul>
-<p>学习新技能若能把握生熟搭配，就能有趣些，也容易持续。口译练习就是一例。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>人分生熟，事分新老。熟与新的组合带来趣味。最有趣的是一生一熟：</p>
-<ul>
-<li>熟人新事，比如跟老友冒险；</li>
-<li>旧事生人，比如同行跨国交流。</li>
-</ul>
-<p>相比之下，</p>
-<ul>
-<li>全熟，就容易无聊，比如老同学聚会只聊过去那]]>
     </summary>
     
   </entry>
